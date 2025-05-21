@@ -1,0 +1,17 @@
+
+body {
+    font-family: sans-serif;
+    background: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+}
+
+#board {
+    width: 400px;
+    margin: auto;
+}
