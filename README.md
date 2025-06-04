@@ -1,2 +1,0 @@
-# CHESSCRYPTO.IO
-Bot initial
